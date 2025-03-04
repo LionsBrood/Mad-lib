@@ -3,6 +3,7 @@ Code for a Java mad Lib
 ## Contributors
 ### Eli: *Leader*
 ### Warner: *Assistant*
+## Source Code:
 
 ```
 import java.util.Scanner;  
@@ -60,3 +61,5 @@ public class MyProgram {
     }  
 }
 ```
+### You can also download the source code! 
+*(wowzers)*
