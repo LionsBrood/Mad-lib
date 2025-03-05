@@ -65,11 +65,13 @@ public class MyProgram {
 ### You can also download the source code! 
 *(wowzers)*
 # Credit
-Warner Hobbs (Moral support, writer of the story)
-Eli Garfield (Wrote *all* the code, bug tested, implamenter)
+⋅⋅* Warner Hobbs (Moral support, writer of the story)
+⋅⋅* Eli Garfield (Wrote *all* the code, bug tested, implamenter)
 # How it Works
-First, the program asks the user for multiple nouns, verbs, and adjectives and stores them as different variables. Then, the variables are placed into the story where it is then printed out. It's really quite simple.
-# Extra info
-Eli drank a total of 5 diet cokes while working on the code! 
+⋅⋅* First, the program asks the user for multiple nouns, verbs, and adjectives and stores them as different variables. Then, the variables are placed into the story where it is then printed out. It's really quite simple.
 # Challenges
-Getting warner to do anyting and bug testing
+⋅⋅* Getting warner to do anyting 
+⋅⋅* bug testing
+# Extra info
+⋅⋅* Eli drank a total of 5 diet cokes while working on the code! 
+
