@@ -61,5 +61,10 @@ public class MyProgram {
     }  
 }
 ```
+
 ### You can also download the source code! 
 *(wowzers)*
+# Credits
+Warner Hobbs (Moral support, writer of the story)
+Eli Garfield (Wrote *all* the code, bug tested, implamenter)
+# How it Works
